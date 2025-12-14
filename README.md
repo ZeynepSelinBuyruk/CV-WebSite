@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CV Website
 
 This is a personal CV website built with HTML and CSS.
@@ -19,3 +20,7 @@ Open `index.html` in any web browser.
 
 - HTML5
 - CSS3
+=======
+# CV-WebSite
+Personal resume (CV) website built using HTML and CSS.
+>>>>>>> bffa56234f4aeb9c9456dcbbc02f9eede88f78c9
